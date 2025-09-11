@@ -19,7 +19,7 @@ Reference
 
 Lectures
 <li>Section 1 - Basic
-    (<a href = "_teaching/Python Program/slide/Section 1 - Basic.pdf">.pdf</a>,
+    (<a href = "Python Program/slide/Section 1 - Basic.pdf">.pdf</a>,
     <a href = "Python Program/code/Section 1 - Basic.ipynb">.ipynb</a>)</li>
 <li>Section 2 - Flow Control
     (<a href = "Python Program/slide/Section 2 - Flow Control.pdf">.pdf</a>,
