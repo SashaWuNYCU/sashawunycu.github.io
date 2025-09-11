@@ -9,10 +9,8 @@ location: "New Taipei City, Taiwan"
 ---
 
 
-Textbook
-* Causal, What if - Hernan
-
 Reference
+* Causal, What if - Hernan
 * Fundamentals of Causal Inference With R – Babette A. Brumback
 * The book of why - Judea Pearl
 * Principles of Econometrics - R. Carter Hill, William E. Griffiths and Guay C. Lim
