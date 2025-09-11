@@ -18,4 +18,4 @@ Reference
 * SQL Pocket Guide - Alice Zhao
 
 Lectures
-- [Section 1 - Basic](http://sashawunycu.github.io/files/U4282/Section%201%20Basic.pdf)
+- [Section 1 - Basic](http://sashawunycu.github.io/files/U4282/slide/Section%201%20Basic.pdf)
