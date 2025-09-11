@@ -3,7 +3,7 @@ title: "Decomposition and Reproducing Property of Local Polynomial Equivalent Ke
 collection: publications
 category: manuscripts
 permalink: /publication/2023-05-30-paper-title-number-1
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: # Discription
 date: 2023-05-30
 venue: 'Journal of Nonparametric Statistics'
 slidesurl: # URL
