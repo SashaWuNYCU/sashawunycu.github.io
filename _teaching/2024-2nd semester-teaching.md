@@ -8,5 +8,13 @@ date: 2024-09-09
 location: "New Taipei City, Taiwan"
 ---
 
+Textbook
+* Introducing Python - Bill Lubanovic
+
+Reference
+* Python Data Science Handbook - Jake VanderPlas
+* Linear models with Python - Julian J.Faraway
+* SQL Pocket Guide - Alice Zhao
+
 
 
