@@ -10,11 +10,9 @@ location: "New Taipei City, Taiwan"
 
 
 Textbook
-======
 * Causal, What if - Hernan
-* The book of why - Judea Pearl
+
 Reference
-======
+* The book of why - Judea Pearl
 
 Grade
-======
