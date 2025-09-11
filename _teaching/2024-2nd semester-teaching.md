@@ -19,10 +19,10 @@ Reference
 
 Lectures
 <li>Section 1 - Basic
-    (<a href = 'http://sashawunycu.github.io/files/Python Program/slide/Section 1 - Basic.pdf'">.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 1 - Basic.ipynb">.ipynb</a>)</li>
+    (<a href = 'http://sashawunycu.github.io/files/PythonProgram/slide/Basic.pdf'>.pdf</a>,
+    <a href = "http://sashawunycu.github.io/files/PythonProgram/code/Basic.ipynb">.ipynb</a>)</li>
 <li>Section 2 - Flow Control
-    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Section 2 - Flow Control.pdf">.pdf</a>,
+    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Flow Control.pdf">.pdf</a>,
     <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 2 - Flow Control.ipynb">.ipynb</a>)</li>
 <li>Section 3 - Function, Class 
     (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Section 3 - Function, Class.pdf">.pdf</a>,
