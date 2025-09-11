@@ -17,3 +17,6 @@ Reference
 * Principles of Econometrics - R. Carter Hill, William E. Griffiths and Guay C. Lim
 * Introductory Econometrics A Modern Approach - Jeffrey M. Wooldridge
 * Econometric Analysis - William H. Greene
+
+Lectures
+- [Intro to Causal Inference](http://sashawunycu.github.io/files/U4370/IntroCausal.pdf)

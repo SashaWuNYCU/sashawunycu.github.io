@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Stat, NYCU, 2025 (expected)
-* Ph.D cand. in Stat, NTHU, 2012 to 2018 (attended)
-* M.S. in Stat, NTPU, 2012 (graduated)
-* B.S. in Math, TKU, 2010 (graduated)
+* Ph.D in Statistic, National Yang Ming Chiao Tung University, 2025 (expected)
+* Ph.D candidate in Statistic, National Tsing Hua Univeristy, 2012 to 2018 (attended)
+* M.S. in Statistic, National Taipei University, 2012 (graduated)
+* B.S. in Mathematic, Tamkang University, 2010 (graduated)
 
 Work experience
 ======
@@ -57,11 +57,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+# Talks
+# ======
+#   <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
@@ -69,6 +69,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
