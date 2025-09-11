@@ -8,7 +8,7 @@ date: 2024-09-09
 location: "New Taipei City, Taiwan"
 ---
 
-Class No. : U4370
+Serial No:U4284
 
 
 Reference
