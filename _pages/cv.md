@@ -22,19 +22,32 @@ Work experience
   * Journal of Chinese Statistical Association.
 
 * 2024/02 ~ present: Adjunct Faculty
-  * Stat, National Taipei University
+  * Department of Statistic, National Taipei University
 
 * 2024/12 ~ present: Senior Engineer
-  * Walsin Lihwa Corp.
+  * Quantitative Analysis Lab, Walsin Lihwa Corp.
 
 * 2022/08 ~ 2024/12: Engineer
-  * Walsin Lihwa Corp.
+  * Digital Application Division, Walsin Lihwa Corp.
 
 * 2019/04 ~ 2022/07: RDSS
-  * Walsin Lihwa Corp.
+  * Quantitative Anylsis Division, Walsin Lihwa Corp.
 
 * 2017/09 ~ 2017/10: Instructor
-  * Advant Analytics Tactics Ltd
+  * Advant Analytics Tactics Ltd.
+
+* 2013/09 ~ 2014/01: Project Team Member
+  * Division of Biotechnology and Pharmaceutical Research
+  * National Health Research Institues.
+
+* 2012/09 ~ 2018/12: Teaching Assistant
+  * Insititue of Statistic, National Tsing Hua University.
+
+* 2010/09 ~ 2012/07: Teaching Assistatn
+  * Department of Statistic, National Taipei University.
+
+* 2008/07 ~ 2008/09: Bartender Assistant
+  * Westgate Resort, Utah.
   
 Skills
 ======
@@ -58,7 +71,6 @@ Publications
   {% endfor %}</ul>
   
 # Talks
-# ======
 #   <ul>{% for post in site.talks reversed %}
 #    {% include archive-single-talk-cv.html  %}
 #  {% endfor %}</ul>
@@ -70,5 +82,4 @@ Teaching
   {% endfor %}</ul>
   
 # Service and leadership
-# ======
 # * Currently signed in to 43 different slack teams
