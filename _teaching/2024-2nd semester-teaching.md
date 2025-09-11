@@ -8,6 +8,10 @@ date: 2024-09-09
 location: "New Taipei City, Taiwan"
 ---
 
+Class No.
+* U4370
+
+
 Reference
 * Introducing Python - Bill Lubanovic
 * Python Data Science Handbook - Jake VanderPlas
