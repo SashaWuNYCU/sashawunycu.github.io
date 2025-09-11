@@ -8,6 +8,7 @@ date: 2025-09-01
 location: "New Taipei City, Taiwan"
 ---
 
+Class No. :
 
 Reference
 * Causal, What if - Hernan

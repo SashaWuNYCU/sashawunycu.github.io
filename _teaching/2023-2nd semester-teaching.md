@@ -8,6 +8,7 @@ date: 2024-09-09
 location: "New Taipei City, Taiwan"
 ---
 
+Class No. :
 
 Reference
 * Early Transcendentals 9th ed by James Stewart, Daniel K. Clegg, Saleem Watson
