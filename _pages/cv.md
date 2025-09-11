@@ -18,24 +18,31 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024/10 ~ present: Peer Reviwer
+  * Journal of Chinese Statistical Association.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024/02 ~ present: Adjunct Faculty
+  * Stat, National Taipei University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024/12 ~ present: Senior Engineer
+  * Walsin Lihwa Corp.
+
+* 2022/08 ~ 2024/12: Engineer
+  * Walsin Lihwa Corp.
+
+* 2019/04 ~ 2022/07: RDSS
+  * Walsin Lihwa Corp.
+
+* 2017/09 ~ 2017/10: Instructor
+  * Advant Analytics Tactics Ltd
   
 Skills
 ======
 * Methedolody Skill
+  * Causal Inference
+  * Convex Optimization
+  * Nonparametric Curve Fitting
+  * Statistical Inference
 * Code Skill 
   * Python
   * R
