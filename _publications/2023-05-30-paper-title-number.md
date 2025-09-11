@@ -2,7 +2,7 @@
 title: "Decomposition and Reproducing Property of Local Polynomial Equivalent Kernels in Varying Coefficient"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-05-30-paper-title-number-1
+permalink: /publication/2023-05-30-paper-title-number
 excerpt: # Discription
 date: 2023-05-30
 venue: 'Journal of Nonparametric Statistics'
