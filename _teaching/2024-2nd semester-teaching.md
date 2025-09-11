@@ -18,34 +18,4 @@ Reference
 * SQL Pocket Guide - Alice Zhao
 
 Lectures
-<li>Section 1 - Basic
-    (<a href = 'http://sashawunycu.github.io/files/PythonProgram/slide/Basic.pdf'>.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/PythonProgram/code/Basic.ipynb">.ipynb</a>)</li>
-<li>Section 2 - Flow Control
-    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Flow Control.pdf">.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 2 - Flow Control.ipynb">.ipynb</a>)</li>
-<li>Section 3 - Function, Class 
-    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Section 3 - Function, Class.pdf">.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 3 - Function, Class.ipynb">.ipynb</a>)</li>
-<li>Section 4.1 - Package Intro - Numpy
-    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Section 4 - Package Intro - Numpy.pdf">.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 4.1 - Package Intro - numpy.ipynb">.ipynb</a>)</li>
-<li>Section 4.2 - Package Intro - Pandas
-    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Section 4 - Package Intro - Pandas.pdf">.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 4.2 - Package Intro - pandas.ipynb">.ipynb</a>)</li>
-<li>Section 4.3  - Package Intro - Visualization Tool
-    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Section 4 - Package Intro - Visualization Tool.pdf">.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 4.3 - Package Intro - Visualization tool.ipynb">.ipynb</a>)</li>
-<li>Section 5 - SQL
-    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Section 5 - SQL.pdf">.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 5 - SQL + Python.ipynb">.ipynb</a>)</li>
-<li>Section 6 - VBA
-    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Section 6 - Excel VBA.pdf">.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 6 - VBA + Python.ipynb">.ipynb</a>)</li>
-<li>Section 7 - Linear Model
-    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Section 7 - Linear Model.pdf">.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 7 - Linear Model.ipynb">.ipynb</a>)</li>
-<li>Section 8 - Linear Program
-    (<a href = "http://sashawunycu.github.io/files/Python Program/slide/Section 8 - Linear Program.pdf">.pdf</a>,
-    <a href = "http://sashawunycu.github.io/files/Python Program/code/Section 8 - Linear Program.ipynb">.ipynb</a>)</li>
-
+- [Section 1 - Basic](http://sashawunycu.github.io/files/U4282/Section%201%20Basic.pdf)
