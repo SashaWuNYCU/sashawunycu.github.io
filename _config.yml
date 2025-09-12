@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Chun-yen Wu"
-  pronouns         : "he" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Adjunct Faculty at Department of Statistics, National Taipei University"
   location         : "Taipei, Taiwan"
   employer         : "National Taipei University"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : 'pieteacher'
   lastfm           : # Username
-  linkedin         : 'Chun-yen (Sasha) Wu'
+  linkedin         : 'chun-yen-wu-3477bbb0'
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
