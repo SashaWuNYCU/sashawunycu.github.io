@@ -52,17 +52,12 @@ Work experience
 Skills
 ======
 * Methedolody Skill
-  * Causal Inference
-  * Convex Optimization
-  * Nonparametric Curve Fitting
-  * Statistical Inference
-* Code Skill 
-  * Python
-  * R
-  * SQL
-  * C++
-  * Matlab
-  * VBA
+  * Causal Inference, Statistical Inference, Multivariate Statistics
+  * Nonparametric Methods, Nonparametric Curve Fitting, Linear Model
+  * Stochastic Calculus, Stochastic Process, Convex Optimization
+  
+* Coding Skill 
+  * Python, R, MSSQL, C++, Matlab, VBA
 
 Publications
 ======
