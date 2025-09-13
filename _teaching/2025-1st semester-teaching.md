@@ -20,3 +20,4 @@ Reference
 
 Lectures
 - [Intro to Causal Inference](http://sashawunycu.github.io/files/U4370/IntroCausal.pdf)
+- [Lectrue 1](http://sashawunycu.github.io/files/U4370/Lec1.pdf)
