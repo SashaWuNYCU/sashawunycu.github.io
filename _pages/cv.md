@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2024/10 ~ present: Peer Reviwer
+* 2024/10 ~ present: Journal Referee
   * Journal of Chinese Statistical Association.
 
 * 2024/02 ~ present: Adjunct Faculty
