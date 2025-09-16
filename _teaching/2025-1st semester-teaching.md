@@ -8,7 +8,7 @@ date: 2025-09-01
 location: "New Taipei City, Taiwan"
 ---
 
-Serial No: U4370
+School Year/Semester/Serial No: 114/01/U4370
 
 Reference
 * Causal, What if - Hernan
@@ -21,3 +21,4 @@ Reference
 Lectures
 - [Intro to Causal Inference](http://sashawunycu.github.io/files/U4370/IntroCausal.pdf)
 - [Lectrue 1](http://sashawunycu.github.io/files/U4370/Lec1.pdf)
+- [Hill Crieria](http://sashawunycu.github.io/files/U4370/HillCriteria.pdf)
