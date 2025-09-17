@@ -8,7 +8,7 @@ date: 2024-03-01
 location: "New Taipei City, Taiwan"
 ---
 
-School Year/Semester/Serial No: 113/01/U1191
+School Year/Semester/Serial No/Category: 113/01/U1065/Required
 
 Reference
 * Early Transcendentals 9th ed by James Stewart, Daniel K. Clegg, Saleem Watson

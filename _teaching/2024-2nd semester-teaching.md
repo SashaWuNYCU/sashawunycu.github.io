@@ -8,7 +8,7 @@ date: 2024-09-09
 location: "New Taipei City, Taiwan"
 ---
 
-School Year/Semester/Serial No: 113/02/U4284
+School Year/Semester/Serial No/Category: 113/02/U4284/Optional
 
 
 Reference

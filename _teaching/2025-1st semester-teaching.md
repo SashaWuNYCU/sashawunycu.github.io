@@ -8,7 +8,7 @@ date: 2025-09-01
 location: "New Taipei City, Taiwan"
 ---
 
-School Year/Semester/Serial No: 114/01/U4370
+School Year/Semester/Serial No/Category: 114/01/U4370/Optional
 
 Reference
 * Causal, What if - Hernan
