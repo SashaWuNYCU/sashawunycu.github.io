@@ -2,7 +2,7 @@
 title: "Calculus II (L)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-2nd semester-teaching
+permalink: /teaching/2023-2nd semester-teaching-2
 venue: "National Taipei University, Department of Statistic"
 date: 2023-09-09
 location: "New Taipei City, Taiwan"

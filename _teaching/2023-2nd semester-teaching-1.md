@@ -2,7 +2,7 @@
 title: "Calculus II (A)"
 collection: teaching
 type: "Extension Education"
-permalink: /teaching/2023-2nd semester-teaching
+permalink: /teaching/2023-2nd semester-teaching-1
 venue: "National Taipei University, Department of Statistic"
 date: 2023-09-09
 location: "New Taipei City, Taiwan"
