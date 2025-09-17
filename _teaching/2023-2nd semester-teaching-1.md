@@ -1,5 +1,5 @@
 ---
-title: "Calculus II"
+title: "Calculus II (A)"
 collection: teaching
 type: "Extension Education"
 permalink: /teaching/2023-2nd semester-teaching

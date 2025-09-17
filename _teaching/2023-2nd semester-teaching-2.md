@@ -1,5 +1,5 @@
 ---
-title: "Calculus II"
+title: "Calculus II (L)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-2nd semester-teaching
