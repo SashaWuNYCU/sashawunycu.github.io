@@ -22,3 +22,4 @@ Lectures
 - [Intro to Causal Inference](http://sashawunycu.github.io/files/U4370/IntroCausal.pdf)
 - [Lectrue 1](http://sashawunycu.github.io/files/U4370/Lec1.pdf)
 - [Hill Crieria](http://sashawunycu.github.io/files/U4370/HillCriteria.pdf)
+- [Sport Betting](http://sashawunycu.github.io/files/U4370/SportBetting.pdf)
