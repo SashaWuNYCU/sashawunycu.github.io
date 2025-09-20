@@ -10,10 +10,11 @@ location: "New Taipei City, Taiwan"
 
 School Year/Semester/Serial No/Category: 114/01/U4370/Optional
 
-Reference
+Reference (Causal Inference)
 * Causal, What if - Hernan
 * Fundamentals of Causal Inference With R – Babette A. Brumback
 * The book of why - Judea Pearl
+Reference (Econometric)
 * Principles of Econometrics - R. Carter Hill, William E. Griffiths and Guay C. Lim
 * Introductory Econometrics A Modern Approach - Jeffrey M. Wooldridge
 * Econometric Analysis - William H. Greene
@@ -21,5 +22,6 @@ Reference
 Lectures
 - [Intro to Causal Inference](http://sashawunycu.github.io/files/U4370/IntroCausal.pdf)
 - [Lectrue 1](http://sashawunycu.github.io/files/U4370/Lec1.pdf)
+- [Lectrue 2](http://sashawunycu.github.io/files/U4370/Lec2.pdf)
 - [Hill Crieria](http://sashawunycu.github.io/files/U4370/HillCriteria.pdf)
 - [Sport Betting](http://sashawunycu.github.io/files/U4370/SportBetting.pdf)
