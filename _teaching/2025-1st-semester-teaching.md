@@ -10,11 +10,10 @@ location: "New Taipei City, Taiwan"
 
 School Year/Semester/Serial No/Category: 114/01/U4370/Optional
 
-Reference (Causal Inference)
+Reference
 * Causal, What if - Hernan
 * Fundamentals of Causal Inference With R – Babette A. Brumback
 * The book of why - Judea Pearl
-Reference (Econometric)
 * Principles of Econometrics - R. Carter Hill, William E. Griffiths and Guay C. Lim
 * Introductory Econometrics A Modern Approach - Jeffrey M. Wooldridge
 * Econometric Analysis - William H. Greene
