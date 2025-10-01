@@ -23,5 +23,6 @@ Lectures
 - [Lectrue 1](http://sashawunycu.github.io/files/U4370/Lec1.pdf)
 - [Lectrue 2](http://sashawunycu.github.io/files/U4370/Lec2.pdf)
 - [Lectrue 3](http://sashawunycu.github.io/files/U4370/Lec3.pdf)
+- [Assignment 1](http://sashawunycu.github.io/files/U4370/U4370_HW1.pdf)
 - [Hill Crieria](http://sashawunycu.github.io/files/U4370/HillCriteria.pdf)
 - [Sport Betting](http://sashawunycu.github.io/files/U4370/SportBetting.pdf)
