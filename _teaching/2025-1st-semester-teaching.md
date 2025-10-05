@@ -24,8 +24,10 @@ Lectures
 - [Lectrue 2](http://sashawunycu.github.io/files/U4370/Lec2.pdf)
 - [Lectrue 3](http://sashawunycu.github.io/files/U4370/Lec3.pdf)
 - [Assignment 1](http://sashawunycu.github.io/files/U4370/U4370_HW1.pdf)
+- [Solution to Assignment 1](http://sashawunycu.github.io/files/U4370/U4370_HW1_Sol.pdf)
 
 Supplementary reading 
 - [Hill Crieria](http://sashawunycu.github.io/files/U4370/HillCriteria.pdf)
 - [Sport Betting](http://sashawunycu.github.io/files/U4370/SportBetting.pdf)
 - [Causality in Econometric - Choice vs Chance](http://sashawunycu.github.io/files/U4370/Causal_Econ.pdf)
+- [Supplementary 2025/10/03](http://sashawunycu.github.io/files/U4370/Supplementary_251003.pdf)
