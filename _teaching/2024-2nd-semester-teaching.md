@@ -20,7 +20,7 @@ Reference
 Lectures
 - [Section 1 - Basic](http://sashawunycu.github.io/files/U4282/slide/Sec1-Basic.pdf)
 - [Section 2 - Flow Control](http://sashawunycu.github.io/files/U4282/slide/Sec2-Flow_Control.pdf)
-- [Section 3 - Function, Class](http://sashawunycu.github.io/files/U4282/slide/Sec3-Function_class.pdf)
+- [Section 3 - Function, Class](http://sashawunycu.github.io/files/U4282/slide/Sec3-Function_Class.pdf)
 - [Section 4 - Package Intro with Numpy](http://sashawunycu.github.io/files/U4282/slide/Sec4-Numpy.pdf)
 - [Section 4 - Package Intro with Pandas](http://sashawunycu.github.io/files/U4282/slide/Sec4-Pandas.pdf)
 - [Section 4 - Package Intro with Visualization Tool](http://sashawunycu.github.io/files/U4282/slide/Sec4-Visual.pdf)
