@@ -26,6 +26,8 @@ Lectures
 - [Lectrue 4](http://sashawunycu.github.io/files/U4370/Lec4.pdf)
 - [Assignment 1](http://sashawunycu.github.io/files/U4370/U4370_HW1.pdf)
 - [Solution to Assignment 1](http://sashawunycu.github.io/files/U4370/U4370_HW1_Sol.pdf)
+- [Quiz](http://sashawunycu.github.io/files/U4370/U4370_quiz.pdf)
+- [Solution to Quiz](http://sashawunycu.github.io/files/U4370/U4370_quiz_sol.pdf)
 
 Supplementary reading 
 - [Hill Crieria](http://sashawunycu.github.io/files/U4370/HillCriteria.pdf)
