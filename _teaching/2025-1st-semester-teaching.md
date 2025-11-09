@@ -25,6 +25,7 @@ Lectures
 - [Lectrue 3](http://sashawunycu.github.io/files/U4370/Lec3.pdf)
 - [Lectrue 4](http://sashawunycu.github.io/files/U4370/Lec4.pdf)
 - [Lectrue 5](http://sashawunycu.github.io/files/U4370/Lec5.pdf)
+- [Lectrue 6](http://sashawunycu.github.io/files/U4370/Lec6.pdf)
 - [Assignment 1](http://sashawunycu.github.io/files/U4370/U4370_HW1.pdf)
   [(Solution to Assignment 1)](http://sashawunycu.github.io/files/U4370/U4370_HW1_Sol.pdf)
 - [Quiz](http://sashawunycu.github.io/files/U4370/U4370_quiz.pdf)
@@ -35,3 +36,4 @@ Supplementary reading
 - [Sport Betting](http://sashawunycu.github.io/files/U4370/SportBetting.pdf)
 - [Causality in Econometric - Choice vs Chance](http://sashawunycu.github.io/files/U4370/Causal_Econ.pdf)
 - [Supplementary 2025/10/03](http://sashawunycu.github.io/files/U4370/Supplementary_251003.pdf)
+- [Palmer et al. (2012) SMMR](http://sashawunycu.github.io/files/U4370/Palmer_SMMR.pdf)
