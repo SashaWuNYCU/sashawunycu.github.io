@@ -17,9 +17,10 @@ Reference
 * Principles of Econometrics - R. Carter Hill, William E. Griffiths and Guay C. Lim
 * Introductory Econometrics A Modern Approach - Jeffrey M. Wooldridge
 * Econometric Analysis - William H. Greene
+* Econometrics - Hansan Bruce
 
 Lectures
-- [Intro to Causal Inference](http://sashawunycu.github.io/files/U4370/IntroCausal.pdf)
+- [Intro](http://sashawunycu.github.io/files/U4370/IntroCausal.pdf)
 - [Lectrue 1](http://sashawunycu.github.io/files/U4370/Lec1.pdf)
 - [Lectrue 2](http://sashawunycu.github.io/files/U4370/Lec2.pdf)
 - [Lectrue 3](http://sashawunycu.github.io/files/U4370/Lec3.pdf)
@@ -28,6 +29,7 @@ Lectures
 - [Lectrue 6](http://sashawunycu.github.io/files/U4370/Lec6.pdf)
 - [Assignment 1](http://sashawunycu.github.io/files/U4370/U4370_HW1.pdf)
   [(Solution to Assignment 1)](http://sashawunycu.github.io/files/U4370/U4370_HW1_Sol.pdf)
+- [Assignment 2](http://sashawunycu.github.io/files/U4370/U4370_HW2.pdf)
 - [Quiz](http://sashawunycu.github.io/files/U4370/U4370_quiz.pdf)
   [(Solution to Quiz)](http://sashawunycu.github.io/files/U4370/U4370_quiz_sol.pdf)
 
