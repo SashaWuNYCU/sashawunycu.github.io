@@ -27,6 +27,7 @@ Lectures
 - [Lectrue 4](http://sashawunycu.github.io/files/U4370/Lec4.pdf)
 - [Lectrue 5](http://sashawunycu.github.io/files/U4370/Lec5.pdf)
 - [Lectrue 6](http://sashawunycu.github.io/files/U4370/Lec6.pdf)
+- [Lectrue 7](http://sashawunycu.github.io/files/U4370/Lec7.pdf)
 - [Assignment 1](http://sashawunycu.github.io/files/U4370/U4370_HW1.pdf)
   [(Solution to Assignment 1)](http://sashawunycu.github.io/files/U4370/U4370_HW1_Sol.pdf)
 - [Assignment 2](http://sashawunycu.github.io/files/U4370/U4370_HW2.pdf)
@@ -39,3 +40,4 @@ Supplementary reading
 - [Causality in Econometric - Choice vs Chance](http://sashawunycu.github.io/files/U4370/Causal_Econ.pdf)
 - [Supplementary 2025/10/03](http://sashawunycu.github.io/files/U4370/Supplementary_251003.pdf)
 - [Palmer et al. (2012) SMMR](http://sashawunycu.github.io/files/U4370/Palmer_SMMR.pdf)
+- [Separable Effect with Multiple Ordered Mediators](http://sashawunycu.github.io/files/U4370/NE_SE_PSE.pdf)
