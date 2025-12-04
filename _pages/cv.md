@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistic, National Yang Ming Chiao Tung University, 2025 (expected)
+* Ph.D in Statistic, National Yang Ming Chiao Tung University, 2026 (expected)
 * Ph.D candidate in Statistic, National Tsing Hua Univeristy, 2012 to 2018 (attended)
 * M.S. in Statistic, National Taipei University, 2012 (graduated)
 * B.S. in Mathematic, Tamkang University, 2010 (graduated)

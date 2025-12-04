@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Senior Engineer at the Econometrics Quantitative Analysis Lab of Walsin Lihwa Corp. My role involves applying mathematical models to optimize decision-making and automate processes. 
+I currently work as a Senior Engineer at Walsin Lihwa Corporation’s Econometrics Quantitative Analysis Lab, focusing on building mathematical and statistical models that enhance decision-making, improve efficiency, and automate complex workflows.
 
-In 2024, I was invited by the Dept. of Stat. at NTPU to serve as a adjunct faculty, offering courses such as Causal Inference and Python Programming. In addition, I was also invited by the JCSA to serve as a Peer Reviewer.
+Beyond industry, I remain active in academia. In 2024, I was invited to teach as an adjunct faculty member at the Department of Statistics, National Taipei University, where I offer courses on Causal Inference and Python Programming. I also contribute to the scholarly community as a referee for the Journal of the Chinese Statistical Association (JCSA).
 
 Prospective Projects
 ------
+ * Optimization of BOM utilizing Metallurgical Energy Balance (In Proc)
  * Two Stage Bom Batch Automatic System
    * Multi-Scenario Simulation Toolkit
    * Optimized Refined of Raw Material Consumption
