@@ -29,6 +29,7 @@ Lectures
 - [Lectrue 6](http://sashawunycu.github.io/files/U4370/Lec6.pdf)
 - [Lectrue 7](http://sashawunycu.github.io/files/U4370/Lec7.pdf)
 - [Lectrue 8](http://sashawunycu.github.io/files/U4370/Lec8.pdf)
+- [Lectrue 8](http://sashawunycu.github.io/files/U4370/Lec9.pdf)
 - [Assignment 1](http://sashawunycu.github.io/files/U4370/U4370_HW1.pdf)
   [(Solution to Assignment 1)](http://sashawunycu.github.io/files/U4370/U4370_HW1_Sol.pdf)
 - [Assignment 2](http://sashawunycu.github.io/files/U4370/U4370_HW2.pdf)
