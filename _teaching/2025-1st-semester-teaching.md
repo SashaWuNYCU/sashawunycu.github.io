@@ -36,6 +36,8 @@ Lectures
   [(Solution to Assignment 2)](http://sashawunycu.github.io/files/U4370/U4370_HW2_Sol.pdf)
 - [Quiz](http://sashawunycu.github.io/files/U4370/U4370_quiz.pdf)
   [(Solution to Quiz)](http://sashawunycu.github.io/files/U4370/U4370_quiz_sol.pdf)
+- [Final Exam](http://sashawunycu.github.io/files/U4370/U4370_Final.pdf)
+  [(Solution to Final Exam)](http://sashawunycu.github.io/files/U4370/U4370_Final_Sol.pdf)
 
 Supplementary reading 
 - [Hill Crieria](http://sashawunycu.github.io/files/U4370/HillCriteria.pdf)
