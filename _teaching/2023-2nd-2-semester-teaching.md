@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-2nd-2-semester-teaching
 venue: "National Taipei University, Department of Statistic"
-date: 2023-09-09
+date: 2023-03-01
 location: "New Taipei City, Taiwan"
 ---
 
