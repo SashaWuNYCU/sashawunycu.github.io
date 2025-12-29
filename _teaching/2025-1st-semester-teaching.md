@@ -35,6 +35,8 @@ Lectures
   [(Solution to Assignment 1)](http://sashawunycu.github.io/files/U4370/U4370_HW1_Sol.pdf)
 - [Assignment 2](http://sashawunycu.github.io/files/U4370/U4370_HW2.pdf)
   [(Solution to Assignment 2)](http://sashawunycu.github.io/files/U4370/U4370_HW2_Sol.pdf)
+- [Assignment 3](http://sashawunycu.github.io/files/U4370/U4370_HW3.pdf)
+  [(Solution to Assignment 3)](http://sashawunycu.github.io/files/U4370/U4370_HW3_Sol.pdf)
 - [Quiz](http://sashawunycu.github.io/files/U4370/U4370_quiz.pdf)
   [(Solution to Quiz)](http://sashawunycu.github.io/files/U4370/U4370_quiz_sol.pdf)
 - [Final Exam](http://sashawunycu.github.io/files/U4370/U4370_Final.pdf)
